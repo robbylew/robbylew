@@ -1,11 +1,7 @@
 <div align="center">
 
 
-  <a href="https://robertlewis.dev/">
-    <img width="250" height="250" src="https://avatars.githubusercontent.com/u/82246610?v=4" style="border-radius: 50%;" />
-  </a>
-  <br>
-  <br>
+
   <h2>Hello World, I'm Robby</h2>
   <p>
     I'm a full-stack developer based in Los Angeles, California, originally from the Netherlands. <br>
