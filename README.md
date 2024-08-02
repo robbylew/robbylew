@@ -7,7 +7,7 @@
     I'm a full-stack developer based in Los Angeles, California, originally from the Netherlands. <br>
     I recently earned my Bachelors of Science in Statistics and Data Science from UCLA. <br>
     Currently, I'm pursuing a Masters of Science in Computer Science at Georgia Tech. <br>
-    I have a keen interest in Cybersecurity and AI.
+    I have a keen interest in the intersection of Software Engineering and Cybersecurity, of course with a dash of AI.
   </p>
 
   <p>
