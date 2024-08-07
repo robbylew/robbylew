@@ -12,7 +12,7 @@
 
 
   <p>
-    <a href="https:/robertlewis.dev" style="margin: 0 10px;">My Website</a> • 
+    <a href="https:/robertlewis.dev" style="margin: 0 10px;">Website</a> • 
     <a href="https://www.linkedin.com/in/robbylew/" style="margin: 0 10px;">LinkedIn</a> • 
     <a href="https://twitter.com/roberthedev" style="margin: 0 10px;">Twitter</a> • 
     <a href="https://www.instagram.com/robbylew/" style="margin: 0 10px;">Instagram</a>
