@@ -1,8 +1,6 @@
 <div align="center">
 
-  ![Header Image](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
-
-  ### 👋 Hello World, I'm **Robby**
+  # 👋 Hello World, I'm **Robby**
 
   *Full-Stack Developer | Los Angeles, California | Originally from the Netherlands*
 
@@ -14,12 +12,16 @@
 
   ---
 
-  [🌐 Website](https://robertlewis.dev) • [🔗 LinkedIn](https://www.linkedin.com/in/robbylew/) • [🐦 Twitter](https://twitter.com/roberthedev) • [📸 Instagram](https://www.instagram.com/robbylew/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-b5ab00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://robertlewis.dev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robbylew/)
+  [![Twitter](https://img.shields.io/badge/Twitter-6200b5?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/roberthedev)
+  <a href="mailto:jobs@robertlewis.dev">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
 
 </div>
 
 ---
-
 
 ### 📈 GitHub Stats
 
@@ -32,20 +34,4 @@
 
 ---
 
-### 📫 Get in Touch
-
-- **Email:** [jobs@robertlewis.dev](mailto:hello@robertlewis.dev)
-
----
-
 *Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate or just say hi.*
-
----
-
-<!-- Optional: Add an activity graph -->
-
-<div align="center">
-
-[![Robby's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=robbylew&theme=github)](https://github.com/robbylew)
-
-</div>
