@@ -34,4 +34,4 @@
 
 ---
 
-*Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate or just say hi.*
+*Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or just say hi.*
