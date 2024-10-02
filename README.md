@@ -23,15 +23,4 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=robbylew&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbylew&layout=compact&langs_count=7&theme=radical"/>
-
-</div>
-
----
-
 *Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or just say hi.*
