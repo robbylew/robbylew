@@ -8,7 +8,7 @@
 
   **Master of Science in Computer Science** at **Georgia Tech**
 
-  **Interests:** Software Engineering, Cybersecurity, AI
+  **Interests:** Software Engineering, Cybersecurity, AI, Cloud Technologies
 
   ---
 
