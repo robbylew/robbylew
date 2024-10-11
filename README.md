@@ -4,9 +4,9 @@
 
   *Full-Stack Developer | Los Angeles, California | Originally from the Netherlands*
 
-  **Bachelors of Science in Statistics and Data Science** from **UCLA**
+  **Bachelor of Science in Statistics and Data Science** from **UCLA**
 
-  **Masters of Science in Computer Science** at **Georgia Tech**
+  **Master of Science in Computer Science** at **Georgia Tech**
 
   **Interests:** Software Engineering, Cybersecurity, AI, Cloud Technologies
 
