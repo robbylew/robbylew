@@ -10,12 +10,6 @@
 
   **Interests:** Software Engineering, Cybersecurity, AI, Cloud Technologies
 
-  ---
-
-  [![Portfolio](https://img.shields.io/badge/Portfolio-b5ab00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://robertlewis.dev)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robbylew/)
-
-
 </div>
 
 ---
